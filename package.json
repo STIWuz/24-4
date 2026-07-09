@@ -1,6 +1,6 @@
 {
-  "name": "minecraft-afk-bot",
-  "version": "2.2",
+  "name": "STIWuz2",
+  "version": "1.16.2",
   "description": "Robust AFK bot for Minecraft servers with infinite uptime.",
   "main": "index.js",
   "scripts": {
