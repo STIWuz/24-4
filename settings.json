@@ -1,8 +1,8 @@
 {
-  "name": "AFK Bot",
-  "bot-account": {
-    "username": "cripermanafkbot",
-    "password": "",
+  "name": "STIWuz2",
+  "bot-account": {405 FNP
+    "username": "STIWuz",
+    "password": "405 FNP",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "405 FNP"
     },
     "anti-afk": {
       "enabled": true,
