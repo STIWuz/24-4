@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "cripermanafkbot",
+    "username": "STIWuz",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "criperman2b2t.aternos.me",
-    "port": 20563,
-    "version": "1.21.11",
+    "ip": "THEMASTERUZ.aternos.me",
+    "port": 55691,
+    "version": "1.16.2",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to criperman pro uz!",
+        "Subscribe to @UZB_SANJAR1!",
         "I like to play Minecraft!"
       ]
     },
